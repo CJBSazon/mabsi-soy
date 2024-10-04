@@ -1,0 +1,18 @@
+/* Custom CSS */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+input {
+    border: 2px solid #FF9800;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+button {
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #E65100;
+}
